@@ -1,0 +1,11 @@
+List of all js keywords:
+(https://www.w3schools.com/js/js_reserved.asp)
+
+JS Number methods and properties:
+(https://www.w3schools.com/jsref/jsref_obj_number.asp)
+
+JS Operator Precedence:
+(https://www.w3schools.com/js/js_precedence.asp)
+
+JS Assignment Operators:
+(https://www.w3schools.com/js/js_assignment.asp)
