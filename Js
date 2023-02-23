@@ -9,3 +9,6 @@ JS Operator Precedence:
 
 JS Assignment Operators:
 (https://www.w3schools.com/js/js_assignment.asp)
+
+JS Arithmetic Operators:
+(https://www.w3schools.com/js/js_arithmetic.asp)
