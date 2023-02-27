@@ -7,8 +7,8 @@
 
 // Adding Numbers with Numbers
 
-// let a=20;
-// let b=80;
+// let a=80;
+// let b=20;
 // console.log(a+b)
 
 // Adding two strings
