@@ -12,3 +12,6 @@ JS Assignment Operators:
 
 JS Arithmetic Operators:
 (https://www.w3schools.com/js/js_arithmetic.asp)
+
+JS String methods:
+(https://www.w3schools.com/js/js_string_methods.asp)
